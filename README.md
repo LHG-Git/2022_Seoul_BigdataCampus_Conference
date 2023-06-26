@@ -9,6 +9,11 @@
     📝 라이브러리 : Pandas, Numpy, Geopandas, Matplotlib, Seaborn, Haversine, Sklearn<br><br>
     📅 진행기간 : 2022.09.01 ~ 2022.11.30</h3>
 
+        Language : Python
+        FrameWork : 
+        Library : Pandas, Numpy
+        Tool : Jupyter
+        
 ### 👨‍👦‍👦 팀원소개
 <table>
 <tbody>
