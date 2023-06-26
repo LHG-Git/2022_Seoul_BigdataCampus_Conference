@@ -10,11 +10,6 @@
      📝 Library : Pandas, Numpy, Matplotlib, Seaborn, Haversine, Geopandas <br><br>
      🛠  Tool : Jupyter <br><br>
      📅 진행기간 : 2022.09.01 ~ 2022.11.30</h3>
-
-<h3> 💭 Language : Python <br><br>
-     📌 FrameWork : Scikit-learn <br><br>
-     📝 Library : Pandas, Numpy, Matplotlib, Seaborn, Haversine, Geopandas <br><br>
-     🛠  Tool : Jupyter</h3>
         
 ### 👨‍👦‍👦 팀원소개
 <table>
