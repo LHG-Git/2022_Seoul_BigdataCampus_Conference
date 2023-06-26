@@ -5,11 +5,11 @@
   🚆 지하철 9호선 신설역 수요인원 예측 모델 개발 및 정책 제안</h1>
 </div>
 <h3 align="center"><img src="https://github.com/LHG-Git/project/assets/100845169/ac520ab3-bba0-4d5b-bf8f-7f1fdeaa38eb"></h3>
-<h3> 💭 Language : Python <br><br>
+<h4> 💭 Language : Python <br><br>
      📌 FrameWork : Scikit-learn <br><br>
      📝 Library : Pandas, Numpy, Matplotlib, Seaborn, Haversine, Geopandas <br><br>
      🛠  Tool : Jupyter <br><br>
-     📅 진행기간 : 2022.09.01 ~ 2022.11.30</h3>
+     📅 진행기간 : 2022.09.01 ~ 2022.11.30</h4>
         
 ### 👨‍👦‍👦 팀원소개
 <table>
